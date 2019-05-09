@@ -11,6 +11,11 @@
 		<author>张三2</author>
 		<money>80</money>
 	</book>
+	<book id="003">
+		<name>东郭先生和狼3</name>
+		<author>张三3</author>
+		<money>70</money>
+	</book>
 
 </books>
 
