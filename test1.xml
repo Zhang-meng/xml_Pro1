@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--这是注释-->
+<books>
+	<book id="001">
+		<name>东郭先生和狼</name>
+		<author>张三</author>
+		<money>29.9</money>
+	</book>
+	<book id="002">
+		<name>东郭先生和狼2</name>
+		<author>张三2</author>
+		<money>80</money>
+	</book>
+
+</books>
+
